@@ -1,0 +1,6 @@
+Whenever a passenger needs to reach his destination, this website helps him to save time and energy.
+It only takes him to visit this website to get what he wants.
+In the meanwhile, the driver posts an announcement about the same destination containing various information
+like the time of departure or arrival, number of places available,the price and the traject.
+So, the passager only has to make a reservation in the announcement that concers him.
+This idea may help reduce wasted time as well as saving money.
